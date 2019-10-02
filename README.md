@@ -1,5 +1,6 @@
 # Lab 3 - Composed 3D transformations, matrix stack, keyboard functions.
 
+## Requirements:
 - Create an object that composes of at least 10 3-D analytical objects.
   - Use matrix stack operation - push/pop  
 - All transformations must be controlled through keyboard interaction
